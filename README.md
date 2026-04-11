@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohdHuzaifa160&label=Profile+Views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/MohdHuzaifa160?label=Followers&style=flat&color=36BCF7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=mohdhuzaifaexe&label=Profile+Views&color=36BCF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/mohdhuzaifaexe?label=Followers&style=flat&color=36BCF7" alt="followers" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ const huzaifa = {
 
 ## 🔭 Currently Working On
 
-- 🤖 **[Huzenix](https://github.com/MohdHuzaifa160)** — AI SaaS web platform with **Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Prisma + PostgreSQL & Gemini AI**
+- 🤖 **[Huzenix](https://github.com/mohdhuzaifaexe)** — AI SaaS web platform with **Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Prisma + PostgreSQL & Gemini AI**
 - 📱 **Android Apps** in Kotlin — MVVM, Firebase, Room DB, Retrofit
 - 🎬 Automating YouTube Shorts for **[Debugged Laughter](https://youtube.com/@DebuggedLaughter)**
 
@@ -105,7 +105,7 @@ const huzaifa = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohdHuzaifa160&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -113,7 +113,7 @@ const huzaifa = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdHuzaifa160&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzaifaexe&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -121,7 +121,7 @@ const huzaifa = {
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohd-huzaifa-it/" target="_blank">
+  <a href="https://www.linkedin.com/inmohdhuzaifaexe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/mohdhuzaifa.exe" target="_blank">
@@ -130,7 +130,7 @@ const huzaifa = {
   <a href="mailto:mohdhuzaifa160@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/MohdHuzaifa160">
+  <a href="https://github.com/mohdhuzaifaexe">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://youtube.com/@DebuggedLaughter">
