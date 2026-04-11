@@ -161,7 +161,7 @@ const huzaifa = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1](https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&no-frame=true&column=7)" />
 </div>
 
 ---
