@@ -1,159 +1,224 @@
-<p align="center">
-  <img src="https://github.com/MohdHuzaifa160/MohdHuzaifa160/blob/main/Banner.png" alt="GitHub Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohd Huzaifa</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Engineer | 📱 Android Developer | 🎯 Founder of Huzenix</h3>
+<img src="https://github.com/mohdhuzaifaexe/mohdhuzaifaexe/blob/main/Banner.png" alt="Mohd Huzaifa Banner" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=700&lines=Building+Huzenix+%E2%80%94+AI+SaaS+Platform+with+Next.js+%26+Gemini;Full-Stack+Dev+%7C+TypeScript+%7C+Tailwind+%7C+Prisma;Android+Developer+%7C+Kotlin+%7C+MVVM+%7C+Firebase;Automating+Shorts+%40+Debugged+Laughter+YouTube;Let's+Build+Something+Powerful+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdhuzaifaexe&label=Profile+Views&color=36BCF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mohdhuzaifaexe?label=Followers&style=flat&color=36BCF7" alt="followers" />
-</p>
+---
+
+<div align="center">
+
+```
+███╗   ███╗ ██████╗ ██╗  ██╗██████╗     ██╗  ██╗██╗   ██╗███████╗ █████╗ ██╗███████╗ █████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗    ██║  ██║██║   ██║╚══███╔╝██╔══██╗██║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║██║  ██║    ███████║██║   ██║  ███╔╝ ███████║██║█████╗  ███████║
+██║╚██╔╝██║██║   ██║██╔══██║██║  ██║    ██╔══██║██║   ██║ ███╔╝  ██╔══██║██║██╔══╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██████╔╝    ██║  ██║╚██████╔╝███████╗██║  ██║██║██║     ██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Mohd+Huzaifa;🚀+Full-Stack+Developer+%7C+AI+Engineer;📱+Android+Developer+%7C+Kotlin+%26+MVVM;🤖+Founder+%40+Huzenix+AI+SaaS+Platform;💻+mohdhuzaifa.exe+—+Always+Running..." alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mohdhuzaifaexe&label=Profile+Views&color=36BCF7&style=flat-square)](https://github.com/mohdhuzaifaexe)
+[![GitHub Followers](https://img.shields.io/github/followers/mohdhuzaifaexe?label=Followers&style=flat-square&color=36BCF7)](https://github.com/mohdhuzaifaexe?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/mohdhuzaifaexe?label=Total+Stars&style=flat-square&color=FFD700)](https://github.com/mohdhuzaifaexe)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-```ts
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+```typescript
 const huzaifa = {
-  name: "Mohd Huzaifa",
-  alias: "mohdhuzaifa.exe",
-  brand: "Huzenix",
-  location: "Ambedkar Nagar, Uttar Pradesh 🇮🇳",
-  role: ["Full-Stack Developer", "Android Developer", "AI Engineer"],
-  currentlyBuilding: "Huzenix — AI SaaS Platform",
-  stack: ["Next.js", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL", "Gemini AI"],
-  android: ["Kotlin", "MVVM", "Firebase", "Room DB", "Retrofit"],
-  funFact: "I debug code and people's moods — both need patience 😄",
+  name        : "Mohd Huzaifa",
+  alias       : "mohdhuzaifa.exe",
+  brand       : "🔷 Huzenix",
+  location    : "📍 Ambedkar Nagar, UP, India 🇮🇳",
+  roles       : ["Full-Stack Dev", "Android Dev", "AI Engineer"],
+  building    : "Huzenix — AI SaaS Platform",
+  stack       : {
+    frontend  : ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend   : ["Node.js", "Prisma", "PostgreSQL", "Docker"],
+    android   : ["Kotlin", "MVVM", "Room DB", "Retrofit", "Firebase"],
+    ai        : ["Gemini AI", "Claude API", "Prompt Engineering"],
+  },
+  learning    : ["LLMs", "Advanced Android", "CI/CD", "Docker"],
+  youtube     : "Debugged Laughter 🎬",
+  funFact     : "I debug code and people's moods 😄",
+  available   : true,
 };
 ```
 
----
-
-## 🔭 Currently Working On
-
-- 🤖 **[Huzenix](https://github.com/mohdhuzaifaexe)** — AI SaaS web platform with **Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Prisma + PostgreSQL & Gemini AI**
-- 📱 **Android Apps** in Kotlin — MVVM, Firebase, Room DB, Retrofit
-- 🎬 Automating YouTube Shorts for **[Debugged Laughter](https://youtube.com/@DebuggedLaughter)**
+<br clear="right"/>
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 What I'm Building
 
-- 🧠 **Gemini AI API** — Deep integration & prompt engineering
-- ⚙️ **Docker + PostgreSQL** — Production-ready DB setup
-- 🔐 **Web Security** — Auth, rate limiting, middleware
-- 📦 **GitHub Actions** — CI/CD pipelines
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Huzenix AI Platform
+> AI SaaS web platform built with Next.js, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, Prisma + PostgreSQL & Gemini AI integration
+
+**Status:** 🟢 Active Development
+
+</td>
+<td width="50%">
+
+### 📱 Android Projects
+> Production-grade Android apps in Kotlin — MVVM architecture, Firebase Auth, Room DB, Retrofit, Google Maps SDK
+
+**Status:** 🟢 Active Development
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 Debugged Laughter
+> YouTube channel automating tech + comedy Shorts — because learning should be fun!
+
+**Status:** 🟡 Growing
+
+</td>
+<td width="50%">
+
+### 🤖 Huzenix AI Assistant
+> Jarvis-style AI assistant — Web (Claude API + Web Speech) + Android (Kotlin + offline LLM via llama.cpp/NDK)
+
+**Status:** 🟡 In Progress
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-</p>
+<div align="center">
+
+**Frontend & UI**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Database**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Android & Mobile**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/>
-</p>
 
-**Tools & Platforms**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**AI & Tools**
+
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdHuzaifa160&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdHuzaifa160&layout=compact&theme=radical&hide_border=true" width="49%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdHuzaifa160&theme=radical&hide_border=true" width="70%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohdhuzaifaexe&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzaifaexe&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzaifaexe&theme=radical&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" width="70%" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&margin-w=10&margin-h=10&no-frame=true&row=1"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdhuzaifaexe&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzaifaexe&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohdhuzaifaexe/mohdhuzaifaexe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzaifaexe&theme=react-dark&hide_border=true&area=true&color=36BCF7&line=36BCF7&point=FF6B6B" width="95%" />
+</div>
 
 ---
 
 ## 🔗 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/inmohdhuzaifaexe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/mohdhuzaifa.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:mohdhuzaifa160@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/mohdhuzaifaexe">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://youtube.com/@DebuggedLaughter">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-huzaifa-it/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohdhuzaifa.exe)
+[![YouTube](https://img.shields.io/badge/Debugged_Laughter-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DebuggedLaughter)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdhuzaifa160@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohdhuzaifaexe)
+
+</div>
 
 ---
 
 ## ⚡ Inspiration
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+<div align="center">
 
-> *"Code. Learn. Laugh. Repeat."* – **Debugged Laughter**
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-> *"Build something the world hasn't seen yet."* – **Huzenix**
+> *"Code. Learn. Laugh. Repeat."* — **Debugged Laughter** 🎬
+
+> *"Build something the world hasn't seen yet."* — **Huzenix** 🔷
+
+</div>
 
 ---
 
-## 🔍 Search Tags
+<div align="center">
 
-`Mohd Huzaifa` `mohdhuzaifa.exe` `Huzaifa GitHub` `Huzaifa Developer India`
-`Huzenix` `Huzenix AI` `Creator of Huzenix` `Huzaifa Next.js Developer`
-`Huzaifa Android Developer` `Huzaifa Kotlin` `Huzaifa AI SaaS`
-`Full Stack Developer Ambedkar Nagar` `Huzaifa TypeScript` `Debugged Laughter`
-`Mohd Huzaifa IT` `Huzaifa Prisma PostgreSQL` `Huzaifa Gemini AI`
+**Thanks for visiting! Drop a ⭐ if you like my work 😄**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
+<!-- SEO Search Tags -->
+<!-- Mohd Huzaifa | mohdhuzaifa.exe | Huzenix | Huzenix AI | Creator of Huzenix | Huzaifa Full Stack Developer | Huzaifa Android Developer | Huzaifa Kotlin Developer | Huzaifa Next.js | Huzaifa TypeScript | Huzaifa Gemini AI | Huzaifa AI SaaS | Debugged Laughter | Ambedkar Nagar Developer | India GitHub Developer | Mohd Huzaifa IT | Huzaifa Prisma PostgreSQL | Huzaifa Docker -->
