@@ -1,468 +1,371 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<a href="https://github.com/mohdhuzaifaexe">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B1F3A,100:00D9FF&text=MOHD%20HUZAIFA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=mohdhuzaifa.exe%20%E2%80%94%20Building%20real-world%20software&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+</a>
 
-<img src="https://github.com/mohdhuzaifaexe/mohdhuzaifaexe/blob/main/Banner.png" width="100%" alt="Mohd Huzaifa Banner"/>
+<br>
 
-<br/>
+<a href="https://github.com/mohdhuzaifaexe">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Django+Developer;Full-Stack+Developer+%7C+AI+Enthusiast;Building+practical+software+from+real+problems;Code.+Build.+Debug.+Learn.+Repeat." alt="Typing Animation"/>
+</a>
 
-# 👋 Hi, I'm Mohd Huzaifa
+<br><br>
 
-### `Python Developer` · `Django Developer` · `Full-Stack Developer` · `AI Enthusiast`
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mohdhuzaifaexe&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mohdhuzaifaexe?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mohdhuzaifaexe?label=TOTAL%20STARS&style=for-the-badge&color=F59E0B" alt="Stars"/>
-</p>
-
-> **Building real-world software, one project at a time. 🚀**
+<a href="https://github.com/mohdhuzaifaexe">
+<img src="https://komarev.com/ghpvc/?username=mohdhuzaifaexe&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohdhuzaifaexe?tab=followers">
+<img src="https://img.shields.io/github/followers/mohdhuzaifaexe?label=FOLLOWERS&style=flat-square&color=7C3AED" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohdhuzaifaexe?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-19-111827?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ==================== -->
-
-## 🧑‍💻 About Me
-
 <table>
 <tr>
-
 <td width="58%" valign="top">
 
-### `whoami`
+# 👋 Hello, I'm Huzaifa
 
-I'm a **Diploma in Information Technology student** and developer focused on building practical software with **Python, Django and modern web technologies**.
+I'm a **Diploma in Information Technology student** and developer interested in building useful software with **Python, Django and modern web technologies**.
 
-I enjoy taking an idea through the complete development cycle:
+I like working on projects where software solves an actual problem rather than simply demonstrating a technology.
 
-<pre>
-Problem
-   ↓
-Planning
-   ↓
-Database
-   ↓
-Backend / API
-   ↓
-Frontend
-   ↓
-Testing
-   ↓
-Deployment
-</pre>
+### What I enjoy building
 
-### 🔭 What I Focus On
+```text
+🌐 Web Applications
+⚡ REST APIs
+🤖 AI-powered Tools
+🗄️ Database Systems
+⚙️ Automation
+📊 Tracking & Management Systems
+🧠 Problem-solving Projects
+Current direction
 
-- 🐍 Python Development
-- 🚀 Django & REST APIs
-- 🌐 Full-Stack Web Applications
-- 🤖 AI-powered Applications
-- 🗄️ Database-driven Systems
-- ⚙️ Automation & Developer Tools
-- 🧠 DSA & Problem Solving
+Python → Django → Full-Stack → AI → System Design
 
-</td>
+</td> <td width="42%" valign="top"> <img src="https://github.com/mohdhuzaifaexe/mohdhuzaifaexe/blob/main/profile-pic.png" width="100%" alt="Mohd Huzaifa"/> </td> </tr> </table>
+🧩 Developer Snapshot
+<table> <tr> <td align="center" width="25%">
+🐍
 
-<td width="42%" valign="top">
+Python
 
-### `mohdhuzaifa.exe`
+Backend & Automation
 
-<pre>
-huzaifa = {
-    "name": "Mohd Huzaifa",
-    "alias": "mohdhuzaifa.exe",
+</td> <td align="center" width="25%">
+🚀
 
-    "role": [
-        "Python Developer",
-        "Django Developer",
-        "Full-Stack Developer"
-    ],
+Django
 
-    "focus": [
-        "Web Development",
-        "AI & Automation",
-        "Problem Solving"
-    ],
+Web Applications
 
-    "currently_building": [
-        "Real-world projects",
-        "Django applications",
-        "AI integrations"
-    ],
+</td> <td align="center" width="25%">
+🤖
 
-    "goal": "Build useful software"
-}
-</pre>
+AI
 
-</td>
+Intelligent Apps
 
-</tr>
-</table>
+</td> <td align="center" width="25%">
+🗄️
 
----
+Databases
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+Data-driven Systems
 
-# 🚀 Featured Projects
+</td> </tr> </table>
+🚀 What I'm Building
+<table> <tr> <td width="50%" valign="top">
+🚆 ANRVS Railway Tracker
 
-<table>
-<tr>
+A real-world Django application for organizing and tracking railway development information.
 
-<td width="50%" valign="top">
+Core areas
 
-## 🚆 ANRVS Railway Tracker
+Railway news
+Stations
+Issues
+RTI records
+Tenders
+Promises / demands
+Evidence
+Updates
 
-A Django-based railway development tracking system.
+Stack
 
-### Features
+Python Django PostgreSQL
 
-- 📰 Railway news tracking
-- 🚉 Station management
-- 📋 Issue tracking
-- 📄 RTI tracking
-- 📑 Tender tracking
-- 📌 Promise tracking
-- 🗂️ Evidence management
+Status: 🟡 Active Development
 
-### Tech Stack
+</td> <td width="50%" valign="top">
+🏙️ Smart City Complaint
 
-`Python` `Django` `PostgreSQL`
+A complaint-management platform designed around the workflow between citizens, staff and administrators.
 
-> 🔒 Currently a private project.
+Core areas
 
-</td>
+User authentication
+Complaint submission
+Categories
+Status tracking
+Staff management
+Administration
+Statistics
 
-<td width="50%" valign="top">
+Stack
 
-## 🏙️ Smart City Complaint
+Python Django HTML CSS JavaScript
 
-A web-based complaint management system for citizens, staff and administrators.
+Status: 🟢 Active Development
 
-### Features
+</td> </tr> <tr> <td width="50%" valign="top">
+🔷 Huzenix
 
-- 👤 User authentication
-- 📝 Complaint submission
-- 🏷️ Complaint categories
-- 🔄 Status tracking
-- 👨‍💼 Staff management
-- 🛠️ Admin management
-- 📊 Complaint statistics
+A Python-based AI voice assistant focused on productivity, automation and voice interaction.
 
-### Tech Stack
+Features
 
-`Python` `Django` `HTML` `CSS` `JavaScript`
+Voice commands
+AI conversation
+Notes
+Reminders
+Weather
+News
+File management
+Voice calculator
+Text-to-speech
 
-<br/>
+Stack
 
-<a href="https://github.com/mohdhuzaifaexe/smart_city_complaint">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Smart City Repository"/>
-</a>
+Python AI APIs Automation
 
-</td>
+Status: 🟡 Evolving
 
-</tr>
+</td> <td width="50%" valign="top">
+🌐 Developer Portfolio
 
-<tr>
+Personal developer portfolio focused on presenting projects, technical skills and development work.
 
-<td width="50%" valign="top">
+Focus
 
-## 🔷 Huzenix
+Clean UI
+Responsive design
+Project showcase
+Developer branding
+Social integration
 
-A Python-based AI voice assistant focused on voice interaction, automation and productivity.
+Stack
 
-### Features
+HTML CSS JavaScript
 
-- 🎙️ Voice commands
-- 🤖 AI conversation
-- 📝 Notes
-- ⏰ Smart reminders
-- 🌦️ Weather
-- 📰 News
-- 📁 File management
-- 🧮 Voice calculator
-- 🔊 Text-to-speech
+Status: 🟢 Maintained
 
-### Tech Stack
-
-`Python` `AI` `APIs` `Automation`
-
-<br/>
-
-<a href="https://github.com/mohdhuzaifaexe/Huzenix">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Huzenix Repository"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Developer Portfolio
-
-My personal developer portfolio showcasing projects, skills and development journey.
-
-### Includes
-
-- 👨‍💻 About Me
-- 🚀 Projects
-- 🛠️ Skills
-- 📱 Responsive UI
-- 🔗 Social Links
-
-### Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-<br/>
-
-<a href="https://github.com/mohdhuzaifaexe/Portfolio">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Portfolio Repository"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-# 🛠️ Tech Stack
-
+</td> </tr> </table>
+🛠️ Technology Universe
 <div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" alt="Languages"/>
 
-### 💻 Languages
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Programming Languages"/>
+Backend & APIs
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" alt="Backend"/>
 
-<br/><br/>
+<br><br>
 
-### ⚙️ Backend
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend"/>
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" alt="Backend Technologies"/>
+<br><br>
 
-<br/><br/>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Frontend Technologies"/>
-
-<br/><br/>
-
-### 🗄️ Databases
-
+Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Databases"/>
 
-<br/><br/>
+<br><br>
 
-### 🔧 Tools
+Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Tools"/> </div>
+🧠 My Development Approach
+<table> <tr> <td width="33%" align="center">
+01
+Understand
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Developer Tools"/>
+I start with the problem before thinking about the technology.
 
-</div>
+</td> <td width="33%" align="center">
+02
+Build
 
----
+I turn the idea into a working system using the right tools.
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+</td> <td width="33%" align="center">
+03
+Improve
 
-# 🧠 Currently Learning
+I debug, refactor, test and keep improving the project.
 
-<table>
-<tr>
+</td> </tr> </table> <div align="center"> <pre> Problem ↓ Understand ↓ Design ↓ Build ↓ Test ↓ Deploy ↓ Improve ↺ </pre> </div>
+📚 Currently Learning
+<table> <tr> <td width="50%" valign="top">
+Backend Engineering
+Django architecture
+Django REST Framework
+API design
+Authentication
+Database design
+PostgreSQL
+Application architecture
+</td> <td width="50%" valign="top">
+Next-Level Development
+Full-stack architecture
+AI integrations
+System design
+Deployment
+CI/CD
+DevOps fundamentals
+Better software engineering practices
+</td> </tr> </table>
+🧪 Projects & Experiments
 
-<td width="50%" valign="top">
+Apart from my main projects, I use smaller repositories to experiment with technologies and concepts.
 
-### 📚 Development
+Python
+ ├── Automation
+ ├── AI / NLP
+ ├── CLI Applications
+ ├── File Management
+ └── Utility Tools
 
-- 🚀 Django & REST APIs
-- 🗄️ Database Design
-- 🌐 Full-Stack Development
-- 🏗️ System Design
+Web
+ ├── HTML / CSS
+ ├── JavaScript
+ ├── React
+ └── Next.js
 
-</td>
+Backend
+ ├── Django
+ ├── FastAPI
+ ├── REST APIs
+ └── Databases
 
-<td width="50%" valign="top">
+Problem Solving
+ ├── C
+ ├── C++
+ └── DSA
+📊 GitHub Dashboard
+<div align="center"> <a href="https://github.com/mohdhuzaifaexe"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohdhuzaifaexe&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzaifaexe&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/> </a>
 
-### 🤖 Exploring
+<br><br>
 
-- 🧠 AI Integration
-- ⚙️ Automation
-- ☁️ Deployment
-- 🔄 DevOps & CI/CD
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzaifaexe&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzaifaexe&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Graph"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/mohdhuzaifaexe/mohdhuzaifaexe/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/> </div>
+🎯 2026 Focus
+<table> <tr> <td width="25%" align="center">
+🚀
 
-</td>
+Build
 
-</tr>
-</table>
+Production-ready Django applications
 
----
+</td> <td width="25%" align="center">
+🤖
 
-<!-- ==================== DEVELOPMENT WORKFLOW ==================== -->
+Explore
 
-# ⚙️ How I Build
+Practical AI integrations
 
+</td> <td width="25%" align="center">
+🧠
+
+Improve
+
+DSA & system design
+
+</td> <td width="25%" align="center">
+🌍
+
+Contribute
+
+Open-source projects
+
+</td> </tr> </table>
+🧰 My Developer Toolkit
 <div align="center">
-
-<pre>
-              💡 IDEA
-                 │
-                 ▼
-          🧠 PLANNING
-                 │
-                 ▼
-       🗄️ DATABASE DESIGN
-                 │
-                 ▼
-          ⚡ BACKEND / API
-                 │
-                 ▼
-           🎨 FRONTEND
-                 │
-                 ▼
-            🧪 TESTING
-                 │
-                 ▼
-         🚀 DEPLOY & ITERATE
-</pre>
-
+Area	Technologies
+Languages	Python · C · C++ · JavaScript · SQL
+Backend	Django · Django REST Framework · FastAPI · Node.js
+Frontend	HTML · CSS · JavaScript · React · Next.js · Tailwind
+Databases	PostgreSQL · MySQL · MariaDB · SQLite · Firebase
+Tools	Git · GitHub · VS Code · Android Studio
+AI / APIs	AI APIs · Voice APIs · REST APIs · Automation
 </div>
+💡 A Little About My Coding Style
+while True:
 
----
+    idea = find_problem()
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+    if idea:
+        design_solution(idea)
+        build_solution()
+        test_solution()
 
-# 📊 GitHub Analytics
+        if something_breaks:
+            debug()
+            learn()
 
-<div align="center">
+        improve()
 
-<a href="https://github.com/mohdhuzaifaexe">
+    repeat()
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohdhuzaifaexe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Mohd%20Huzaifa%27s%20GitHub%20Stats" alt="GitHub Statistics"/>
+The goal isn't to write more code.
+The goal is to build better software.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdhuzaifaexe&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+🏆 What I Want My GitHub To Show
+<div align="center"> <table> <tr> <td align="center" width="33%">
+💻 Real Projects
 
-</a>
+Not just tutorials — applications that solve problems.
 
-<br/><br/>
+</td> <td align="center" width="33%">
+🧠 Continuous Learning
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdhuzaifaexe&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+Every project is an opportunity to understand something deeper.
 
-</div>
+</td> <td align="center" width="33%">
+🚀 Consistent Growth
 
----
+Build → Debug → Improve → Repeat.
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
+</td> </tr> </table> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/mohd-huzaifa-it/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 
-# 📈 Contribution Activity
+ 
 
-<div align="center">
+<a href="https://github.com/mohdhuzaifaexe"> <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdhuzaifaexe&theme=github-compact&hide_border=true&area=true&custom_title=Mohd%20Huzaifa%20-%20Contribution%20Activity" width="95%" alt="Contribution Activity"/>
+ 
 
-</div>
+<a href="https://instagram.com/mohdhuzaifa.exe"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
----
+ 
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<a href="mailto:mohdhuzaifa160@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+<div align="center"> <br>
+mohdhuzaifa.exe
 
-# 🐍 Contribution Snake
+Code. Build. Debug. Learn. Repeat.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohdhuzaifaexe/mohdhuzaifaexe/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<!-- ==================== GOALS ==================== -->
-
-# 🎯 2026 Goals
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Development
-
-- Build production-ready Django applications
-- Improve full-stack development
-- Strengthen database design
-- Learn deployment & DevOps
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Growth
-
-- Explore practical AI integrations
-- Improve DSA & problem solving
-- Contribute to open source
-- Build more real-world projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ==================== MINDSET ==================== -->
-
-# 💭 Developer Mindset
-
-<div align="center">
-
-### `Build. Break. Debug. Learn. Repeat.`
-
-> **Don't just learn technologies. Build with them.**
-
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohd-huzaifa-it/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/mohdhuzaifaexe">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://instagram.com/mohdhuzaifa.exe">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:mohdhuzaifa160@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<br/>
-
-### 👋 Thanks for visiting my profile!
-
-**Explore my repositories and see what I'm building.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:0B1020&height=100&section=footer" width="100%" alt="Footer"/>
-
-</div>
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:050816&height=120&section=footer" width="100%" alt="Footer"/> </div> ```
